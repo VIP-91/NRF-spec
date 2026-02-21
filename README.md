@@ -15,3 +15,5 @@
 </div>
 
 ---
+
+- NRF-spec is a specification for NetEase Rental Functions, make mcfunctions easier to use.
