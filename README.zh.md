@@ -16,4 +16,4 @@
 
 ---
 
-  🔧 NRF-spec 是一个为 NetEase Rental Functions 设计的规范，旨在使 mcfunction 更易于使用。
+  🔧 NRF-spec 是一个为 网易租赁服函数 设计的规范，旨在使 mcfunction 更易于使用。它适用于网易定制的1.12.2版本服务器
